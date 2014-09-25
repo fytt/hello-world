@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-My first repository
+This is our first repository. Created just for learning purposes.
